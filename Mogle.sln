@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mogle", "Mogle\Mogle.csproj", "{93C172A3-2CED-4AAD-A91A-576CE3C5D099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mogle.PaintMixer", "Mogle.PaintMixer\Mogle.PaintMixer.csproj", "{7218374C-7062-4126-B9B7-F62D20A14FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mogle.PaintMixer.Algorithm", "Mogle.PaintMixer.Algorithm\Mogle.PaintMixer.Algorithm.csproj", "{AB21E667-DECD-4728-9D22-2917BB9D29BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mogle.PaintMixer.Algorithm.Test", "Mogle.PaintMixer.Algorithm.Test\Mogle.PaintMixer.Algorithm.Test.csproj", "{3A7D98CD-1117-4135-86B6-AF560D7AA0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mogle.PaintMixer.Consoler", "Mogle.PaintMixer.Consoler\Mogle.PaintMixer.Consoler.csproj", "{126FB148-4F7C-45CD-871F-75AB8D078713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C172A3-2CED-4AAD-A91A-576CE3C5D099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C172A3-2CED-4AAD-A91A-576CE3C5D099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C172A3-2CED-4AAD-A91A-576CE3C5D099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C172A3-2CED-4AAD-A91A-576CE3C5D099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7218374C-7062-4126-B9B7-F62D20A14FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7218374C-7062-4126-B9B7-F62D20A14FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7218374C-7062-4126-B9B7-F62D20A14FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7218374C-7062-4126-B9B7-F62D20A14FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB21E667-DECD-4728-9D22-2917BB9D29BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB21E667-DECD-4728-9D22-2917BB9D29BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB21E667-DECD-4728-9D22-2917BB9D29BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB21E667-DECD-4728-9D22-2917BB9D29BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7D98CD-1117-4135-86B6-AF560D7AA0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7D98CD-1117-4135-86B6-AF560D7AA0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7D98CD-1117-4135-86B6-AF560D7AA0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7D98CD-1117-4135-86B6-AF560D7AA0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126FB148-4F7C-45CD-871F-75AB8D078713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126FB148-4F7C-45CD-871F-75AB8D078713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126FB148-4F7C-45CD-871F-75AB8D078713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126FB148-4F7C-45CD-871F-75AB8D078713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCFA5608-FBF0-4426-B393-4EB734BFF87F}
+	EndGlobalSection
+EndGlobal
